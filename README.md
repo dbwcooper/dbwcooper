@@ -2,5 +2,5 @@
 
 I'm Cooper.
 
-- 🌱 I’m using and learning `React.js`
+- 🌱 I’m using and learning `React`
 
